@@ -3,7 +3,7 @@ import { categories } from '../utils/constants';
 
 
 
-const Sidebar = ({selectedCategory, setSelectedCategory}) => (
+const Sidebar = ({ selectedCategory, setSelectedCategory }) => (
     <Stack 
     direction="row"
     sx={{
